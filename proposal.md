@@ -64,6 +64,7 @@ with the aim of bringing these issues to the course instructor.
 These 10 hours will primarily be used to write the code of the data mining and the analysis.
 However, I am also aware that much of the time will be spent reading documentation,
 course material, or other supplemental aid.
+
 **In conclusion** this proposal aims to analyze Chicago pedestrian traffic accidents,
 exploring correlations between vehicle size, pedestrian injuries, and the proximity of speed cameras.
 The deliverables include a comprehensive data analysis report, data visualization tools, and an academic paper,
@@ -71,3 +72,4 @@ contributing valuable insights to urban safety.
 Utilizing Python tools, Socrata API, and potential Google Maps integration, the project ensures a systematic approach.
 The commitment to weekly hours, collaboration with the instructor,
 and structured problem-solving underline the dedication to a rigorous and impactful analysis.
+
