@@ -8,7 +8,7 @@ standards, one must wonder about the effects of large cars driving in proximity 
 this question, I propose to work on a combination of datasets, with an aim to determine a correlation between the size of 
 vehicles and pedestrian hospitalization rates. Subsequently, this data will be correlated with a map of speed cameras in
 the city, in an attempt to determine if there is a substantial correlation between those cameras and the accident rates in a
-+/- 1/4 mile radius. Ultimately I propose to shed light on the pedestrian landscape and its dangers.
++/- &frac14; mile radius. Ultimately I propose to shed light on the pedestrian landscape and its dangers.
 
 **Dataset Description and Significance:** There are the datasets is propose for consideration:
 1. [Red Light Camera Locations](https://data.cityofchicago.org/Transportation/Map-Red-Light-Camera-Locations/7mgr-iety) 
