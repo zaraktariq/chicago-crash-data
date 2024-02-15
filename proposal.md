@@ -8,7 +8,7 @@ standards, one must wonder about the effects of large cars driving in proximity 
 this question, I propose to work on a combination of datasets, with an aim to determine a correlation between the size of 
 vehicles and pedestrian hospitalization rates. Subsequently, this data will be correlated with a map of speed cameras in
 the city, in an attempt to determine if there is a substantial correlation between those cameras and the accident rates in a
-+/- 1/4 mile radius. Ultimately I propose to shed light on the pedestrian landscape and its dangers.
++/- &frac14; mile radius. Ultimately I propose to shed light on the pedestrian landscape and its dangers.
 
 **Dataset Description and Significance:** There are the datasets is propose for consideration:
 1. [Red Light Camera Locations](https://data.cityofchicago.org/Transportation/Map-Red-Light-Camera-Locations/7mgr-iety) 
@@ -32,6 +32,14 @@ pose a significant risk to pedestrians, while automates are pushed to design car
 shed light on the delicate balance required for safe and sustainable urban mobility.
 
 **Deliverables:** By the end of February, the deliverables for this project will include:
-1. Comprehensive Data Analysis Report: This report will include an examination of datasets described above. The aim will be to provide
-a statistical analysis, complete with a visual component to be determined later.
-2. Data Visualization: This would allow regular uses to view crashes, hopefully by location, car type, and severity. 
+1. Conncetion to the API and a basic understanding of its use. I hope to be able to access the data in all 4 portals relaibily. Further than that I hope to be able to demonstrate a basic analysis of the data under consideration. 
+Further deliverables will include:
+1. Comprehensive Data Analysis Report: This report will include an examination of datasets described above. The aim will be to provide a statistical analysis, complete with a visual component to be determined later.
+2. Data Visualization: This would allow regular uses to view crashes, hopefully by location, car type, and severity.
+3. Academic paper: This would allow for a more in-depth explination of the finding of this project to those with decision makeing ability. 
+
+**Resource and Assistance Requirements:** This project will be done using the Python-based tools ``pandas``, ``matplotlib.pyplot``, and JetBrains, ``Pycharm``. Access to data will be established via the Socrata API, supported by the Chicago Data Portal. There will also be a potential need to use the services of Google Maps. I will be using the help of the course instructor at lenght. 
+
+**Work Schedule:** Every week I intend to put 10 hours into the project. At the conclusion of every hour I will record questions and stumbling blocks, with the aim of bringing these issues to the course instructor. These 10 hours will primarily be used to write the code of the datamineing, and the of the analyss. However, I am also aware that much of the time will be spent reading documentation, course material, or other supplemential aid.
+
+ **In conclusion** this proposal aims to analyze Chicago pedestrian traffic accidents, exploring correlations between vehicle size, pedestrian injuries, and the proximity of speed cameras. The deliverables include a comprehensive data analysis report, data visualization tools, and an academic paper, contributing valuable insights to urban safety. Utilizing Python tools, Socrata API, and potential Google Maps integration, the project ensures a systematic approach. The commitment to weekly hours, collaboration with the instructor, and structured problem-solving underline the dedication to a rigorous and impactful analysis.
