@@ -5,7 +5,7 @@ ____________________________
 **Introduction:** As of the 2020 US Census, the population of Chicago was 2,740,076 people.
 Even though Chicago is a city with extensive public transit 
 (especially by American standards), many Chicagoans still depend on walking or driving to get around.
-In the era of the ()
+In the era of the CAFE
 standards, one must wonder about the effects of large cars driving in proximity to pedestrians.
 To provide insight into 
 this question, I propose to work on a combination of datasets,
@@ -19,7 +19,7 @@ Ultimately I propose to shed light on the pedestrian landscape and its dangers.
 
 **Dataset Description and Significance:** There are the datasets proposed for consideration:
 1. [Red Light Camera Locations](https://data.cityofchicago.org/Transportation/Map-Red-Light-Camera-Locations/7mgr-iety) 
-2. [Traffic Crashes – Crases](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/data_preview)
+2. [Traffic Crashes – Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/data_preview)
 3. [Traffic Crashes – Vehicles](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3/data_preview)
 4. [Traffic Crashes – People](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d/about_data)
 
