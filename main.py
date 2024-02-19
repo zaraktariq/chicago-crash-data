@@ -20,3 +20,4 @@ working_df = crashes_master.copy(deep=True)
 
 if __name__ == '__main__':
     print(working_df.head())
+    print("hi")
