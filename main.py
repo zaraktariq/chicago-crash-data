@@ -16,8 +16,11 @@ crashes_results = client.get("85ca-t3if", limit=2000)
 # load datasets into dataframes
 crashes_master = pd.DataFrame.from_records(crashes_results)
 
-working_df = crashes_master.copy(deep=True)
+working_crashes = crashes_master.copy(deep=True)
 
 if __name__ == '__main__':
-    print(working_df.head())
-    print("hi")
+    #print(working_crashes.head())
+    #print(working_crashes.shape)
+    #for column in range(working_crashes.shape[1]):
+    #    print(working_crashes[working_crashes.columns[column]].count())
+    (working_crashes.describe())
